@@ -1,2 +1,5 @@
 # giri
-My first repo 
+My first repo is giri
+i am developer
+
+giri watsup
